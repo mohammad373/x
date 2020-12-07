@@ -1,5 +1,7 @@
 # x
 from colorama import Fore
+impoer os
+os.system("clear")
 print(Fore.RED + """
 ██╗  ██╗                ███╗   ██╗██╗    ██╗██╗    ██╗██████╗ 
 ██║  ██║                ████╗  ██║██║    ██║██║    ██║██╔══██╗
@@ -10,7 +12,7 @@ print(Fore.RED + """
                                                               
 """)
 
-baner()
+
 time.sleep(2)
 
 import os
