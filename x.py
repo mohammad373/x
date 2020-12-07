@@ -1,6 +1,6 @@
 # x
 from colorama import Fore
-impoer os
+import os
 os.system("clear")
 print(Fore.RED + """
 ██╗  ██╗                ███╗   ██╗██╗    ██╗██╗    ██╗██████╗ 
@@ -14,8 +14,8 @@ print(Fore.RED + """
 
 
 time.sleep(2)
-
 import os
+
 import sys
 import time
 import requests
