@@ -12,7 +12,7 @@ print(Fore.RED + """
                                                               
 """)
 
-
+import time
 time.sleep(2)
 import os
 
